@@ -1,0 +1,1 @@
+documument.write("hello js");
